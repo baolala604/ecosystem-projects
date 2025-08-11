@@ -1,8 +1,8 @@
 name: 'INI Cloud Mining'
-category: 'DeFi/Stablecoin'
-description: Mining Pool
+category: 'Mining Pool'
+description: 'INI Cloud Mining Platform is a Web3 mining service jointly launched by InitVerse and Yates Pool. It aims to lower the threshold for participation and allow anyone to easily participate in the mining and profit distribution of the INIChain network.'
 onlineTime: '2025/07/15'
-logo:  'https://project-initverse.github.io/ecosystem-projects/public/iniminingcloud-logo.svg'
-website: 
+logo:  'https://project-initverse.github.io/ecosystem-projects/public/INICloudMining.png'
+website:  'https://inimining.cloud/'
 socialMedia:
   twitter:  'https://x.com/INICloudMining'
